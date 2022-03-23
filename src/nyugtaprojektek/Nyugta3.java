@@ -36,9 +36,9 @@ public class Nyugta3 {
         
         int fizetendo = osszesen + szervizDij;
         System.out.printf("%10s:  %d %s\n", "Fizetendő", fizetendo, HUF);
-        double euro = fizetendo / 350.0;
+        double huf = fizetendo / 350.0;
     
-        System.out.printf("%10s%7.2f %s\n","", euro, HUF);//
+        System.out.printf("%10s%7.2f %s\n","", huf, HUF);//
         
         System.out.println(szaggatottVonal);
         

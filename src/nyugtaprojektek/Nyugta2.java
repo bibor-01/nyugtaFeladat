@@ -60,6 +60,7 @@ public class Nyugta2 {
         
         System.out.println("        CÉG");
         System.out.println(csillagok);
+        
     }
 
 }
